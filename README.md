@@ -25,7 +25,7 @@ This project involves time series forecasting of weekly published and granted In
 
 ---
 
-## 📊 Output
+## Output
 
 - Forecast graphs for up to **52 weeks into the future**
 
